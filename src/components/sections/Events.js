@@ -16,109 +16,54 @@ const Events = () => {
     <p>
       Est incididunt sint eu minim dolore mollit velit velit commodo ex nulla
       exercitation. Veniam velit adipisicing anim excepteur nostrud magna
-      nostrud aliqua dolor. Sunt aute est duis ut nulla officia irure
-      reprehenderit laborum fugiat dolore in elit. Adipisicing do qui duis Lorem
-      est.
+   
     </p>
-    <p>
-      Est incididunt sint eu minim dolore mollit velit velit commodo ex nulla
-      exercitation. Veniam velit adipisicing anim excepteur nostrud magna
-      nostrud aliqua dolor. Sunt aute est duis ut nulla officia irure
-      reprehenderit laborum fugiat dolore in elit. Adipisicing do qui duis Lorem
-      est.
-    </p>
-    <p>
-      Est incididunt sint eu minim dolore mollit velit velit commodo ex nulla
-      exercitation. Veniam velit adipisicing anim excepteur nostrud magna
-      nostrud aliqua dolor. Sunt aute est duis ut nulla officia irure
-      reprehenderit laborum fugiat dolore in elit. Adipisicing do qui duis Lorem
-      est.
-    </p>
+        <button style={{backgroundColor:'#151719' ,color:'#fff', border:'1px'}}>Register Event</button>
+
   </TimelineItem>
   <TimelineItem
     key="002"
     dateText="Event 2  "
      dateInnerStyle={{ background: '#013220' }}
   >
-    <h3>Event 1</h3>
+    <h3>Event 2</h3>
     <h4>Subtitle</h4>
     <p>
       Est incididunt sint eu minim dolore mollit velit velit commodo ex nulla
       exercitation. Veniam velit adipisicing anim excepteur nostrud magna
-      nostrud aliqua dolor. Sunt aute est duis ut nulla officia irure
-      reprehenderit laborum fugiat dolore in elit. Adipisicing do qui duis Lorem
-      est.
+    
     </p>
-    <p>
-      Est incididunt sint eu minim dolore mollit velit velit commodo ex nulla
-      exercitation. Veniam velit adipisicing anim excepteur nostrud magna
-      nostrud aliqua dolor. Sunt aute est duis ut nulla officia irure
-      reprehenderit laborum fugiat dolore in elit. Adipisicing do qui duis Lorem
-      est.
-    </p>
-    <p>
-      Est incididunt sint eu minim dolore mollit velit velit commodo ex nulla
-      exercitation. Veniam velit adipisicing anim excepteur nostrud magna
-      nostrud aliqua dolor. Sunt aute est duis ut nulla officia irure
-      reprehenderit laborum fugiat dolore in elit. Adipisicing do qui duis Lorem
-      est.
-    </p>
+        <button style={{backgroundColor:'#151719' ,color:'#fff', border:'1px'}}>Register Event</button>
+
   </TimelineItem><TimelineItem
     key="003"
     dateText="Event 3 "
      dateInnerStyle={{ background: '#013220' }}
   >
-    <h3>Event 1</h3>
+    <h3>Event 3</h3>
     <h4>Subtitle</h4>
     <p>
       Est incididunt sint eu minim dolore mollit velit velit commodo ex nulla
       exercitation. Veniam velit adipisicing anim excepteur nostrud magna
-      nostrud aliqua dolor. Sunt aute est duis ut nulla officia irure
-      reprehenderit laborum fugiat dolore in elit. Adipisicing do qui duis Lorem
-      est.
+     
     </p>
-    <p>
-      Est incididunt sint eu minim dolore mollit velit velit commodo ex nulla
-      exercitation. Veniam velit adipisicing anim excepteur nostrud magna
-      nostrud aliqua dolor. Sunt aute est duis ut nulla officia irure
-      reprehenderit laborum fugiat dolore in elit. Adipisicing do qui duis Lorem
-      est.
-    </p>
-    <p>
-      Est incididunt sint eu minim dolore mollit velit velit commodo ex nulla
-      exercitation. Veniam velit adipisicing anim excepteur nostrud magna
-      nostrud aliqua dolor. Sunt aute est duis ut nulla officia irure
-      reprehenderit laborum fugiat dolore in elit. Adipisicing do qui duis Lorem
-      est.
-    </p>
+           <button style={{backgroundColor:'#151719' ,color:'#fff', border:'1px'}}>Register Event</button>
+
   </TimelineItem><TimelineItem
     key="004"
     dateText="Event 4 "
      dateInnerStyle={{ background: '#013220' }}
   >
-    <h3>Event 1</h3>
+    <h3>Event 4</h3>
     <h4>Subtitle</h4>
     <p>
       Est incididunt sint eu minim dolore mollit velit velit commodo ex nulla
       exercitation. Veniam velit adipisicing anim excepteur nostrud magna
-      nostrud aliqua dolor. Sunt aute est duis ut nulla officia irure
-      reprehenderit laborum fugiat dolore in elit. Adipisicing do qui duis Lorem
+     
       est.
     </p>
-    <p>
-      Est incididunt sint eu minim dolore mollit velit velit commodo ex nulla
-      exercitation. Veniam velit adipisicing anim excepteur nostrud magna
-      nostrud aliqua dolor. Sunt aute est duis ut nulla officia irure
-      reprehenderit laborum fugiat dolore in elit. Adipisicing do qui duis Lorem
-      est.
-    </p>
-    <p>
-      Est incididunt sint eu minim dolore mollit velit velit commodo ex nulla
-      exercitation. Veniam velit adipisicing anim excepteur nostrud magna
-      nostrud aliqua dolor. Sunt aute est duis ut nulla officia irure
-      reprehenderit laborum fugiat dolore in elit. Adipisicing do qui duis Lorem
-      est.
-    </p>
+          <button style={{backgroundColor:'#151719' ,color:'#fff', border:'1px'}}>Register Event</button>
+
   </TimelineItem>
  
 </Timeline>

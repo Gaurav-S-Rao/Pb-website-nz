@@ -1,8 +1,7 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 import { Timeline, TimelineItem }  from 'vertical-timeline-component-for-react';
 
-const Events = props => {
+const Events = () => {
     return (
         <div>
             <h1 style={{textAlign: "center"}}> Fest   </h1>
@@ -37,7 +36,7 @@ const Events = props => {
     </p>
   </TimelineItem>
   <TimelineItem
-    key="001"
+    key="002"
     dateText="Event 2  "
      dateInnerStyle={{ background: '#013220' }}
   >
@@ -65,7 +64,7 @@ const Events = props => {
       est.
     </p>
   </TimelineItem><TimelineItem
-    key="001"
+    key="003"
     dateText="Event 3 "
      dateInnerStyle={{ background: '#013220' }}
   >
@@ -93,7 +92,7 @@ const Events = props => {
       est.
     </p>
   </TimelineItem><TimelineItem
-    key="001"
+    key="004"
     dateText="Event 4 "
      dateInnerStyle={{ background: '#013220' }}
   >

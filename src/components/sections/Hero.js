@@ -8,8 +8,8 @@ import Modal from '../elements/Modal';
 import AwesomeSlider from 'react-awesome-slider';
 import 'react-awesome-slider/dist/styles.css';
 import ca_1 from "./../../assets/images/hero_1.png"
-import ca_2 from "./../../assets/images/ca_2.png"
-import ca_3 from "./../../assets/images/hero_1.png"
+import ca_2 from "./../../assets/images/hero2.png"
+import ca_3 from "./../../assets/images/hero3.png"
 
 
 const propTypes = {
